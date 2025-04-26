@@ -1,7 +1,7 @@
-## EX 1: DDA ALGORITHM 
+# EX 1: DDA ALGORITHM 
 
-# register no : 212224040157
-# name        : kelvin k
+## register no : 212224040157
+## name        : kelvin k
 **Aim :**
 
 To  implement the DDA algorithm to draw a line using a c coding
