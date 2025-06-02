@@ -19,7 +19,7 @@ Step 4 − Calculate the increment in x coordinate and y coordinate
 Step 5 − Plot the pixel by successfully incrementing x and y coordinates accordingly and complete the drawing of the line
 
 **Program :**
-
+```c
 #include <graphics.h>
 #include <stdio.h>
 #include <math.h>
@@ -63,7 +63,7 @@ void main( )
 
 	closegraph();
 }
- 
+```
 **Output :**
 ![image](https://github.com/user-attachments/assets/e03c5eaa-fb1e-4805-991b-422969128830)
 
